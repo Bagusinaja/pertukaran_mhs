@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622232964157",
+    "project_id": "pemmobile-c404e",
+    "storage_bucket": "pemmobile-c404e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622232964157:android:90bdc8799a3a149adcee54",
+        "android_client_info": {
+          "package_name": "com.example.revisi_aplikasi_pertukaran_mahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQO5WXUbCRwLmtezUVMvzVdpq3Hl4QpyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
